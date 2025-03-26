@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="IMG-20250326.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>Ms.R.KEERTHANA</h1>
             <p>STUDENT</p>
         </div>
@@ -122,7 +122,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>University of Madras - BCA</p>
+            <p>dr.mgr.janaki college of arts and science for women - BCA</p>
             
             
         </div>
@@ -133,9 +133,7 @@
             <h2>Skills</h2>
             <ul>
                 <li>JAVA</li>
-                <li>RDBMS</li>
                 <li>C++</li>
-                <li>WEB DESIGNING</li>
                 <li>ADNROID</li>
                 <li>R PROGRAMMING<li>
                     
@@ -143,14 +141,11 @@
         </div>
     </section>
 
-    <section id="projects">
+    <section id="intenship">
         <div class="section-content">
-            <h2>Projects</h2>
+            <h2>intenship</h2>
             <ul>
-                <li><a href="#">AI Based alternator control system</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chetbot</a></li>
-                <li><a href="#">chetbot</a></li> 
+            
                 <!-- Add more project links here -->
             </ul>
         </div>
